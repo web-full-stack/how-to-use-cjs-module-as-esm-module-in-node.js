@@ -1,0 +1,25 @@
+{
+  "name": "how-to-use-cjs-module-as-esm-module-in-node",
+  "version": "1.0.0",
+  "description": "cjs => esm",
+  "main": "src/index.mjs",
+  "scripts": {
+    "esm": "node ./src/index.mjs",
+    "cjs": "node ./src/index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-full-stack/how-to-use-cjs-module-as-esm-module-in-node.js.git"
+  },
+  "keywords": [
+    "cj",
+    "esm"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web-full-stack/how-to-use-cjs-module-as-esm-module-in-node.js/issues"
+  },
+  "homepage": "https://github.com/web-full-stack/how-to-use-cjs-module-as-esm-module-in-node.js#readme"
+}
